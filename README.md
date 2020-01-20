@@ -6,6 +6,7 @@
 - Komponenten:
   - Genuino Uno Board 
   - Ptototype Expansion Modul
+  - HM-10 Bluetooth 4.0 BLE 
   - L293 D: Motortreiber, 4-fach
   - Ultraschallsensor ST1099
   - 2 Motoren 3,6V
